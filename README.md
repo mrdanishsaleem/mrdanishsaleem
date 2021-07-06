@@ -53,7 +53,6 @@ Having secured a first-class degree, I am now eager to secure roles that demand 
 ## <img alt="Where to Find me" src="https://img.shields.io/badge/where to find me-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/>
 
 [<img alt="dev.to blog" src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" >](https://dev.to/mrdanishsaleem/)
-[<img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/mrdanishsaleem/)
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/mrdanishsaleem)
 [<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>](https://stackoverflow.com/story/mrdanishsaleem)
 [<img alt="BuyMeACoffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>](https://www.buymeacoffee.com/mrdanishsaleem)
