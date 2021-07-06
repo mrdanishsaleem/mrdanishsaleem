@@ -1,22 +1,4 @@
-Hi there 👋, my name is Danish Saleem.
-
-I'm a Software Engineer.
-
-Right now, I'm coding in Javascript && React.
-
-I enjoy brainstorming creative app ideas, coming up with innovative layouts and getting my hands dirty with the code. I believe in UX first backed up by strong UI.
-
-Skills: JS / HTML / CSS / REACT / MERN
-
-🪕 I’m currently working as Software Engineer at Logix Lobby 🤘
-
-🌱 I’m currently learning React 💻
-
-😄 Pronouns: (He/His) 👦
-
-⚡ Fun fact: I'm a gamer 🎮
-
-<!-- <h1 align="center">Hi there 👋, my name is Danish Saleem</h1>
+<h1 align="center">Hi there 👋, my name is Danish Saleem</h1>
 <h2 align="center">Software Engineer</h2><br/>
 
 <img alt="About Me" src="https://img.shields.io/badge/about Me-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/>
@@ -101,4 +83,4 @@ Having secured a first-class degree, I am now eager to secure roles that demand 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mrdanishsaleem.mrdanishsaleem)
 
-* * * -->
+* * *
