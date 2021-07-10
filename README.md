@@ -1,36 +1,32 @@
 <h1 align="center">Hi there 👋, my name is Danish Saleem</h1>
 
-<h2 align="center">Software Engineer</h2><br/>
+<img alt="About Me" src="https://img.shields.io/badge/🧑 about Me-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/>
 
-<img alt="About Me" src="https://img.shields.io/badge/about Me-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/>
+I'm a Software Engineer 👨‍💻 who is passionate about making open-source more accessible, creating technology to elevate people, writing code, solving problems, automating stuff, and building software.
 
-In October, 2020 I graduated with a bachelor’s degree in computer science from the Virtual University of Pakistan.
+- 🔭 I’m a Computer Science graduate 👨‍🎓 from [Virtual University of Pakistan](https://www.vu.edu.pk/)
+- 👯 I’m looking for a software development internship.
 
-Modules studied during my degree include object-oriented programming, systems & architecture, software engineering management, operating systems, industrial network design, artificial intelligence, UX design, designing secure systems and robotics.
-
-My natural curiosity for computers is what drove me towards my computer science degree. I’ve always been fascinated by computers and the technical mechanics behind the monitor.
-Having secured a first-class degree, I am now eager to secure roles that demand use of the skills gained during my studies. I love to connect with new people and build new relationships.
-
----
-
-## <img alt="Currently Learning" src="https://img.shields.io/badge/currently learning-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/>
+## <img alt="Currently Learning" src="https://img.shields.io/badge/ 📚 currently learning-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/>
 
 <div>
 
-<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> <img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"/> <img alt="Adobe XD" src="https://img.shields.io/badge/adobexd-%23FF26BE.svg?&style=for-the-badge&logo=adobexd&logoColor=white"/> <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+
+<!-- <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> <img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"/> <img alt="Adobe XD" src="https://img.shields.io/badge/adobexd-%23FF26BE.svg?&style=for-the-badge&logo=adobexd&logoColor=white"/> <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/> -->
 
 </div>
 
 ---
 
-## <img alt="Currently Working On" src="https://img.shields.io/badge/currently working on-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/>
+## <img alt="Currently Working On" src="https://img.shields.io/badge/💼 currently working on-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/>
 
 - Preparing for full stack developer interviews
 - Blogging to help aspiring developers
 
 ---
 
-## <img alt="My dev.to Posts" src="https://img.shields.io/badge/my dev.to posts-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" >
+## <img alt="dev.to Posts" src="https://img.shields.io/badge/dev.to posts-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" >
 
 - [Developer Roadmaps](https://dev.to/mrdanishsaleem/developer-roadmaps-47i)
 - [As A Front-End Developer in 2021](https://dev.to/mrdanishsaleem/as-a-front-end-developer-in-2021-54k4)
@@ -40,7 +36,7 @@ Having secured a first-class degree, I am now eager to secure roles that demand 
 
 ---
 
-## <img alt="Interests & Activities" src="https://img.shields.io/badge/interests & activities-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/>
+## <img alt="Interests & Activities" src="https://img.shields.io/badge/⚡ interests & activities-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/>
 
 [<img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/>](https://store.steampowered.com/)
 [<img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>](https://open.spotify.com/user/qgu3xe8fo0k432q4nu3tbfzj5)
@@ -50,7 +46,7 @@ Having secured a first-class degree, I am now eager to secure roles that demand 
 
 ---
 
-## <img alt="Where to Find me" src="https://img.shields.io/badge/where to find me-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/>
+## <img alt="Where to Find me" src="https://img.shields.io/badge/📫 where to find me-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/>
 
 [<img alt="dev.to blog" src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" >](https://dev.to/mrdanishsaleem/)
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/mrdanishsaleem)
@@ -70,7 +66,7 @@ Having secured a first-class degree, I am now eager to secure roles that demand 
 
 ---
 
-## <img alt="GitHub Profile Trophy" src="https://img.shields.io/badge/GitHub Profile Trophy-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/>
+## <img alt="GitHub Profile Trophy" src="https://img.shields.io/badge/🦊 GitHub Profile Trophy-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mrdanishsaleem)](https://github.com/ryo-ma/github-profile-trophy)
 
