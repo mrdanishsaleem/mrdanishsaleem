@@ -1,10 +1,10 @@
-<h1 align="center">Hi there 👋, my name is Danish Saleem</h1>
+<!-- <h1 align="center">Welcome 👋,</h1> -->
 
 <img alt="About Me" src="https://img.shields.io/badge/🧑 about Me-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/>
 
 I'm a Software Engineer 👨‍💻 who is passionate about making open-source more accessible, creating technology to elevate people, writing code, solving problems, automating stuff, and building software.
 
-- 🔭 I’m a Computer Science graduate 👨‍🎓 from [Virtual University of Pakistan](https://www.vu.edu.pk/)
+- 🔭 I’m a Computer Science graduate 👨‍🎓
 - 👯 I’m looking for a software development internship.
 
 ## <img alt="Currently Learning" src="https://img.shields.io/badge/ 📚 currently learning-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/>
