@@ -2,10 +2,9 @@
 
 <img alt="About Me" src="https://img.shields.io/badge/🧑 about Me-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/>
 
-I'm a Software Engineer 👨‍💻 who is passionate about making open-source more accessible, creating technology to elevate people, writing code, solving problems, automating stuff, and building software.
+A passionate Software Engineer 👨‍💻with a dynamic skills in code creation, risk analysis and mitigation, technology creation, automating stuff, as well as building software.
 
-- 🔭 I’m a Computer Science graduate 👨‍🎓
-- 👯 I’m looking for a software development internship.
+- 🔭 I’m a Computer Science graduate, currently serving national and international clients 👨‍🎓
 
 ## <img alt="Currently Learning" src="https://img.shields.io/badge/ 📚 currently learning-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/>
 
