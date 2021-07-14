@@ -2,9 +2,9 @@
 
 <img alt="About Me" src="https://img.shields.io/badge/🧑 about Me-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/>
 
-A passionate Software Engineer 👨‍💻 with a dynamic skills in code creation, risk analysis and mitigation, technology creation, automating stuff, as well as building software.
+A passionate Software Engineer 👨‍💻 with dynamic skills in code creation, risk analysis and mitigation, technology creation, automating stuff, and building software.
 
-- 🔭 I’m a Computer Science graduate 👨‍🎓, currently serving national and international clients 🤝
+🔭 I’m a Computer Science graduate 👨‍🎓, currently serving national and international clients 🤝
 
 ## <img alt="Currently Learning" src="https://img.shields.io/badge/ 📚 currently learning-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/>
 
