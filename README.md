@@ -1,5 +1,7 @@
 <!-- <h1 align="center">Welcome 👋,</h1> -->
 
+![Danish Saleem](https://media-exp3.licdn.com/dms/image/C4E16AQHDE22Vo1SXlQ/profile-displaybackgroundimage-shrink_350_1400/0/1626796710983?e=1632355200&v=beta&t=dgSpltozQX66Pt0s2_RLehrZjSwBgxCPgDJDm40x9lM)
+
 <img alt="About Me" src="https://img.shields.io/badge/🧑 about Me-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/>
 
 A passionate Software Engineer 👨‍💻 with dynamic skills in code creation, risk analysis and mitigation, technology creation, automating stuff, and building software.
