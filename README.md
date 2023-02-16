@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 
 - 🌍 I'm based in Lahore, Pakistan 🇵🇰
 - 🚀 I'm currently working as a Freelance Software Engineer
-- 🔭 I’m currently working on my coding, and database skills, automating and testing stuff, and building websites and Web applications.
+- 🔭 I’m currently working on my coding, database skills
+- 💼 I'm currently building websites and Web applications.
 - 🌱 I’m currently learning ReactJS, NodeJS.
 - 👯 I’m looking for freelance projects and open-source contributions
 <!-- - 🤔 I’m looking for help with graphic designing. -->
