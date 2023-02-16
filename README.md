@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - 💼 I'm currently building websites and Web applications.
 - 🌱 I’m currently learning ReactJS, NodeJS.
 - 👯 I’m looking for freelance projects and open-source contributions
-<!-- - 🤔 I’m looking for help with graphic designing. -->
 - 💬 Ask me about HTML, CSS, JavaScript, WordPress, Web Development, SQL and Automation.
 - 📫 You can contact me at [danish_s@outlook.com](mailto:danish_s@outlook.com)
 - ⚡ Fun fact: Yes, of course, I am athletic… I surf the Internet every day.
+
+<!-- - 🤔 I’m looking for help with graphic designing. -->
