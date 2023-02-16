@@ -11,10 +11,10 @@ Here are some ideas to get you started:
 
 - 🌍 I'm based in Lahore, Pakistan 🇵🇰
 - 🚀 I'm currently working as a Freelance Software Engineer
-- 🔭 I’m currently working on my coding, and database skills, automating and testing stuff, and building websites and applications.
+- 🔭 I’m currently working on my coding, and database skills, automating and testing stuff, and building websites and Web applications.
 - 🌱 I’m currently learning ReactJS, NodeJS.
 - 👯 I’m looking for freelance projects and open-source contributions
-- 🤔 I’m looking for help with graphic designing.
-- 💬 Ask me about HTML, CSS and JavaScript.
+<!-- - 🤔 I’m looking for help with graphic designing. -->
+- 💬 Ask me about HTML, CSS, JavaScript, WordPress, Web Development, SQL and Automation.
 - 📫 You can contact me at [danish_s@outlook.com](mailto:danish_s@outlook.com)
 - ⚡ Fun fact: Yes, of course, I am athletic… I surf the Internet every day.
