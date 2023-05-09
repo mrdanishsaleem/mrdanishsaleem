@@ -11,7 +11,17 @@ Here are some ideas to get you started:
 
 ## 💫 About Me
 
-🔭 I’m currently working on Website and Web Applications.<br>👯 I’m looking to collaborate on Health, Education, and Fintech projects.<br>🤝 I’m looking for help with designing tools.<br>🌱 I’m currently learning ReactJS, NodeJS and WordPress.<br>💬 Ask me about HTML, CSS, JavaScript, Automation<br>⚡ Fun fact: I'm a big fan of anime and video games and I can cook.
+🔭 I’m currently working on Website and Web Applications.
+
+👯 I’m looking to collaborate on Health, Education, and Fintech projects.
+
+🤝 I’m looking for help with designing tools.
+
+🌱 I’m currently learning ReactJS, NodeJS and WordPress.
+
+💬 Ask me about HTML, CSS, JavaScript, Automation
+
+⚡ Fun fact: I'm a big fan of anime and video games and I can cook.
 
 ## 🌐 Socials
 
@@ -23,8 +33,10 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-![GitHub README Stats](https://github-readme-stats.vercel.app/api?username=mrdanishsaleem&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![GitHub Streaks Stats](https://github-readme-streak-stats.herokuapp.com/?user=mrdanishsaleem&theme=dark&hide_border=false)<br/>
+![GitHub README Stats](https://github-readme-stats.vercel.app/api?username=mrdanishsaleem&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streaks Stats](https://github-readme-streak-stats.herokuapp.com/?user=mrdanishsaleem&theme=dark&hide_border=false)
+
 ![GitHub Commits](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdanishsaleem&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
