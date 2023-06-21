@@ -43,14 +43,6 @@ Here are some ideas to get you started:
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mrdanishsaleem&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-
-[![Latest Tweets](https://gtce.itsvg.in/api?username=MrDanishSaleem&theme=shades-of-purple&response=true&border=true&time=true&icon=default)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=mrdanishsaleem&limit=5&theme=dark&combine_all_yearly_contributions=true)
