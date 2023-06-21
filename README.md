@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ## 🐦 Latest Tweet
 
-[![Latest Tweets](https://gtce.itsvg.in/api?username=MrDanishSaleem)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![Latest Tweets](https://gtce.itsvg.in/api?username=MrDanishSaleem&theme=shades-of-purple&response=true&border=true&time=true&icon=default)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 
