@@ -8,13 +8,6 @@ Welcome to my GitHub profile. I'm a passionate web developer on a mission to cre
 - **🌐 Web Design**: Translating concepts into eye-catching designs with attention to detail.
 - **📱 Responsive Design**: Ensuring seamless experiences across various devices and screen sizes.
 
-## ✨ My Projects
-
-Check out some of my noteworthy projects:
-
-- 🌟 [Project Name](link-to-project): A brief description of the project's purpose and features.
-- 🌟 [Another Project](link-to-another-project): Highlight key aspects that set this project apart.
-
 ## 🛠️ Tech Stack
 
 Here are some of the technologies I work with:
@@ -23,6 +16,26 @@ Here are some of the technologies I work with:
 - **Backend**: Node.js, Express.js, PHP
 - **Databases**: MongoDB, MySQL
 - **CMS**: WordPress
+
+## ✨ My Projects
+
+Check out some of my noteworthy projects:
+
+- 🌟 [CampPedal](https://camppedal.com/)
+- 🌟 [Krølle-BølleIs](https://xn--krlleblleis-hgbe.dk/)
+- 🌟 [Goenkneaux](https://goenkneaux.com/)
+- 🌟 [GlucoNatural](https://order.gluconatural.com/)
+- 🌟 [DataPulse Marketing](https://www.datapulsemarketing.io/)
+- 🌟 [RCM Group Intl](https://rcmgroupintl.com/)
+- 🌟 [Haseeb Urban Pest Management](https://haseeburbanpestmanagement.com/)
+- 🌟 [Chill and Flex](https://chillandflex.com/)
+- 🌟 [Chatham House](https://chathamhouse.ca/)
+- 🌟 [Max Adventures](https://maxadventures.ae/)
+- 🌟 [Lakeway Investors](https://lakewayinvestors.com/)
+- 🌟 [HygnxStudio](https://hygnxstudio.com/)
+- 🌟 [The Pizzariaa](https://thepizzariaa.com/)
+- 🌟 [Dylan Myers Design](https://dylanmyersdesign.com/)
+- 🌟 [Junaid Umer](https://junaidumer.netlify.app/)
 
 ## 🌱 On a Personal Note
 
