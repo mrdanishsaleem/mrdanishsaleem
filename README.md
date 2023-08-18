@@ -21,7 +21,7 @@ Here are some of the technologies I work with:
 
 Check out some of my noteworthy projects:
 
-🚀 [CampPedal](https://camppedal.com/) | 🚀 [Krølle-BølleIs](https://xn--krlleblleis-hgbe.dk/) | 🚀 [Goenkneaux](https://goenkneaux.com/) | 🚀 [GlucoNatural](https://order.gluconatural.com/) | 🚀 [DataPulse Marketing](https://www.datapulsemarketing.io/) | 🚀 [RCM Group Intl](https://rcmgroupintl.com/) | 🚀 [Haseeb Urban Pest Management](https://haseeburbanpestmanagement.com/) | 🚀 [Chill and Flex](https://chillandflex.com/) | 🚀 [Chatham House](https://chathamhouse.ca/) | 🚀 [Max Adventures](https://maxadventures.ae/) | 🚀 [Lakeway Investors](https://lakewayinvestors.com/) | 🚀 [HygnxStudio](https://hygnxstudio.com/) | 🚀 [The Pizzariaa](https://thepizzariaa.com/) | 🚀 [Dylan Myers Design](https://dylanmyersdesign.com/) | 🚀 [Junaid Umer](https://junaidumer.netlify.app/)
+🚀 [Fatima Nasir Official](https://fatimanasirofficial.com/) | 🚀 [One Stop Solutions Inc](https://osssinc.com/) | 🚀 [CampPedal](https://camppedal.com/) | 🚀 [Krølle-BølleIs](https://xn--krlleblleis-hgbe.dk/) | 🚀 [Goenkneaux](https://goenkneaux.com/) | 🚀 [GlucoNatural](https://order.gluconatural.com/) | 🚀 [DataPulse Marketing](https://www.datapulsemarketing.io/) | 🚀 [RCM Group Intl](https://rcmgroupintl.com/) | 🚀 [Haseeb Urban Pest Management](https://haseeburbanpestmanagement.com/) | 🚀 [Chill and Flex](https://chillandflex.com/) | 🚀 [Chatham House](https://chathamhouse.ca/) | 🚀 [Max Adventures](https://maxadventures.ae/) | 🚀 [Lakeway Investors](https://lakewayinvestors.com/) | 🚀 [HygnxStudio](https://hygnxstudio.com/) | 🚀 [The Pizzariaa](https://thepizzariaa.com/) | 🚀 [Dylan Myers Design](https://dylanmyersdesign.com/) | 🚀 [Junaid Umer](https://junaidumer.netlify.app/)
 
 ## 🌱 On a Personal Note
 
