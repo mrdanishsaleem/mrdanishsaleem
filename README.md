@@ -17,6 +17,10 @@ Here are some of the technologies I work with:
 - **Databases**: MongoDB, MySQL
 - **CMS**: WordPress
 
+## 💼 Company
+
+- **DevsSpace**: Web Developer 2023 - Present
+
 ## ✨ My Projects
 
 Check out some of my noteworthy projects:
