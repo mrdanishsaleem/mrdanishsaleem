@@ -33,7 +33,7 @@ I believe in continuous learning and growth. When I'm not coding, you can find m
 
 ## 📫 Let's Connect
 
-🌐 [Portfolio Website](https://mrdanishsaleem.vercel.app/) | 📧 [Email](mailto:danish_s@outlook.com) | 🐦 [Twitter](https://twitter.com/mrdanishsaleem) | 📸 [Instagram](https://instagram.com/mrdanishsaleem) | 📱 [LinkedIn](https://www.linkedin.com/in/mrdanishsaleem/) | 🚀 [Upwork](https://www.upwork.com/freelancers/~0184ec5d2e93b15817)
+🌐 [Portfolio Website](https://mrdanishsaleem.vercel.app/) | 📧 [Email](mailto:danish_s@outlook.com) | 🐦 [Twitter](https://twitter.com/mrdanishsaleem) | 📸 [Instagram](https://instagram.com/mrdanishsaleem) | 📱 [LinkedIn](https://www.linkedin.com/in/mrdanishsaleem/) | 🚀 [Upwork](https://www.upwork.com/freelancers/mrdanishsaleem)
 
 ## 🤝 Let's Collaborate
 
