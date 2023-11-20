@@ -1,6 +1,6 @@
 # Hey there, I'm Danish Saleem! 👋
 
-Welcome to my GitHub profile. I'm a passionate Full Stack developer on a mission to create meaningful and user-friendly web experiences. My journey involves turning ideas into reality using code and creativity.
+Welcome to my GitHub profile. I'm a Full Stack Web Developer on a mission to create meaningful and user-friendly web experiences. My journey involves turning ideas into reality using code and creativity.
 
 ## 🚀 What I Do
 
