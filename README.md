@@ -5,10 +5,15 @@ I'm a passionate **Web Developer** dedicated to crafting impactful digital exper
 ## 💫 About Me
 
 🔭 Currently, I'm immersed in building captivating Websites and Web Applications.
+
 👯 I'm eager to collaborate on projects focused on Health, Education, and Fintech.
+
 🤝 Seeking guidance and collaboration in designing cutting-edge tools.
+
 🌱 Actively learning ReactJS, NodeJS, and enhancing my proficiency in WordPress.
+
 💬 I'm your go-to person for discussions on HTML, CSS, JavaScript, and Automation.
+
 ⚡ Fun fact: I find joy in exploring the realms of anime, video games, and experimenting in the kitchen.
 
 ## 🌐 Connect with Me
