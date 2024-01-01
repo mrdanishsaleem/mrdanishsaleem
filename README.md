@@ -10,7 +10,7 @@ I'm a passionate **Web Developer** dedicated to crafting impactful digital exper
 
 🤝 Seeking guidance and collaboration in designing cutting-edge tools.
 
-🌱 Actively learning ReactJS, NodeJS, PHP and enhancing my proficiency in WordPress.
+🌱 Actively learning ReactJS, NodeJS, PHP and enhancing my proficiency in custom WordPress development.
 
 💬 I'm your go-to person for discussions on HTML, CSS, JavaScript, PHP and Automation.
 
