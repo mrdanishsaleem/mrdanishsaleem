@@ -1,6 +1,6 @@
 # Hi there, I'm Danish Saleem 👋
 
-I'm a passionate **Web Developer** dedicated to crafting impactful digital experiences. My journey involves creating compelling websites and innovative web applications.
+I'm a passionate **Full Web Developer** dedicated to crafting impactful digital experiences. My journey involves creating compelling websites and innovative web applications.
 
 ## 💫 About Me
 
