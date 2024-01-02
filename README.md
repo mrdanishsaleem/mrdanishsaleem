@@ -42,6 +42,6 @@ I'm well-versed in:
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mrdanishsaleem&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=mrdanishsaleem&limit=5&theme=dark&combine_all_yearly_contributions=true)
