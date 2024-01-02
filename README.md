@@ -48,8 +48,6 @@ I'm well-versed in:
 
 ---
 
-[![Profile Visits](https://visitcount.itsvg.in/api?id=mrdanishsaleem&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ## 💰 Support My Work
 
 If my work resonates with you, you can show your support by contributing:
