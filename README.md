@@ -1,6 +1,6 @@
 # Hi there, I'm Danish Saleem 👋
 
-I'm a passionate **Full Web Developer** dedicated to crafting impactful digital experiences. My journey involves creating compelling websites and innovative web applications.
+**Future Focused Full-Stack Software Engineer**, specializing in crafting scalable, high-performance websites and web applications.
 
 ## 💫 About Me
 
