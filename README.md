@@ -1,38 +1,29 @@
-# Hi there, I'm Danish 👋
+# Hi there, I'm Danish! 👋
 
 **Future Focused Full-Stack Software Engineer** based in Pakistan, specializing in crafting scalable, high-performance websites and web applications.
 
 ## 💫 About Me
 
 - 🔭 Immersed in crafting captivating Websites and Web Applications.
-
 - 👯 Eager to collaborate on Health, Education, and Fintech projects.
-
 - 🤝 Seeking guidance and collaboration in designing cutting-edge tools.
-
 - 🌱 Actively mastering ReactJS, NodeJS, PHP, and advancing in custom WordPress development.
-
 - 💬 Your go-to for discussions on HTML, CSS, JavaScript, PHP, WordPress, and Automation.
 
 ## 💻 Tech Stack & 🛠️ Tools
 
-**Frontend Development**: `HTML5` `CSS` `JavaScript` `Bootstrap` `TailwindCSS` `React` `NextJS`
+- **Frontend Development**: HTML5, CSS, JavaScript, Bootstrap, TailwindCSS, React, NextJS
+- **Backend Development**: PHP, NodeJS, MySQL, MSSQL, MongoDB
+- **CMS (Content Management Systems)**: WordPress, Shopify
+- **Tools**: Adobe XD, Figma, Adobe Photoshop, Trello, Slack, Discord, Notion, Jira, Visual Studio Code, Postman
+- **Version Control Tools**: Git, GitHub
+- **Other**: Markdown
 
-**Backend Development**: `PHP` `NodeJS` `MySQL` `MSSQL` `MongoDB`
-
-**CMS (Content Management Systems)**: `WordPress` `Shopify`
-
-**Tools**: `Adobe XD` `Figma` `Adobe Photoshop` `Trello` `Slack` `Discord` `Notion` `Jira` `Visual Studio Code` `Postman`
-
-**Version Control Tools**: `Git` `GitHub`
-
-**Other**: `Markdown`
-
-## ⚡ Fun fact
+## ⚡ Fun Facts
 
 - 🎌 Anime enthusiast.
 - 🎮 Video game aficionado.
-- 👩‍🍳 Kitchen experimenter
+- 👩‍🍳 Kitchen experimenter.
 
 ## 🌐 Connect with Me
 
