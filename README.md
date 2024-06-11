@@ -16,20 +16,20 @@ My expertise spans front-end and back-end development, allowing me to build scal
 
 #### Front-End Development
 
-- 🌟 HTML, CSS, JavaScript, ReactJS
-- 🌟 WordPress Development
+🌟 HTML, CSS, JavaScript, ReactJS
+🌟 WordPress Development
 
 #### Back-End Development
 
-- 🔧 PHP, NodeJS, MySQL
+🔧 PHP, NodeJS, MySQL
 
 #### Full-Stack Development
 
-- 🛠️ MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS)
+🛠️ MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS)
 
 #### Various Programming Languages
 
-- 💻 Python, Java, C++, Visual Basic
+💻 Python, Java, C++, Visual Basic
 
 ---
 
