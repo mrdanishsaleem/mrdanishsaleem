@@ -6,30 +6,20 @@
 
 ## About Me
 
-I'm Danish, a Full-Stack Software Engineer based in Lahore, Pakistan, focused on delivering exceptional web solutions. I specialize in creating captivating websites and web applications using a variety of technologies including HTML, CSS, JavaScript, ReactJS, WordPress, PHP, MySQL, NodeJS, and Zoho CRM integration.
+A Full-Stack Software Engineer based in Lahore, Pakistan, focused on delivering exceptional web solutions. I specialize in creating captivating websites and web applications using a variety of technologies including HTML, CSS, JavaScript, ReactJS, WordPress, PHP, MySQL, NodeJS, and Zoho CRM integration.
 
 My expertise spans front-end and back-end development, allowing me to build scalable and secure systems that provide seamless user experiences. I am adept at crafting efficient server-side solutions and robust, database-driven applications.
 
 ---
 
-### Tech Stack Overview
+## 💻 Tech Stack & 🛠️ Tools
 
-#### Front-End Development
-
-🌟 HTML, CSS, JavaScript, ReactJS
-🌟 WordPress Development
-
-#### Back-End Development
-
-🔧 PHP, NodeJS, MySQL
-
-#### Full-Stack Development
-
-🛠️ MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS)
-
-#### Various Programming Languages
-
-💻 Python, Java, C++, Visual Basic
+- **Frontend Development**: HTML5, CSS, JavaScript, Bootstrap, Tailwind CSS, React, NextJS
+- **Backend Development**: PHP, NodeJS, MySQL, MSSQL, MongoDB
+- **CMS (Content Management Systems)**: WordPress, Shopify
+- **Tools**: Adobe XD, Figma, Adobe Photoshop, Trello, Slack, Discord, Notion, Jira, Visual Studio Code, Postman
+- **Version Control Tools**: Git, GitHub
+- **Other**: Markdown
 
 ---
 
