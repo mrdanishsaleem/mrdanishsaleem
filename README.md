@@ -64,13 +64,13 @@ Accomplished Full-Stack Software Engineer with extensive experience in enterpris
 
 ## 🤝 Partnership Approach
 
-With over [X] years of experience in enterprise software development, I offer:
+With over 3+ years of experience in enterprise software development, I offer:
 
-- ✓ Enterprise-grade solution architecture and implementation
-- ✓ Comprehensive technical documentation
-- ✓ Rigorous quality assurance and testing
-- ✓ Agile development methodology
-- ✓ Ongoing maintenance and support
+- Enterprise-grade solution architecture and implementation
+- Comprehensive technical documentation
+- Rigorous quality assurance and testing
+- Agile development methodology
+- Ongoing maintenance and support
 
 ## 🤝 Let's Build Something Amazing
 
