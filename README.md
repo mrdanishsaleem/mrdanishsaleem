@@ -1,7 +1,7 @@
 # Danish Saleem | Full-Stack Developer & Web Solutions Architect
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Transforming+Ideas+into+Digital+Reality;Building+Scalable+Web+Solutions;Creating+Exceptional+User+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Transforming+Ideas+into+Digital+Reality;Building+Scalable+Web+Solutions;Creating+Exceptional+User+Experiences" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
