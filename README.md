@@ -5,9 +5,9 @@ With over 3 years of experience, I help businesses grow through modern web techn
 
 ## 🔧 What I Do
 
-✅ Custom web applications & CMS (WordPress, Headless CMS)
+✅ Custom web applications & CMS (Laravel, WordPress, Headless CMS)
 
-💻 Full-stack development (React, Next.js, Node.js, PHP)
+💻 Full-stack development (React, Next.js, Node.js, PHP, Laravel)
 
 🧱 Scalable architecture & API integrations
 
@@ -19,7 +19,7 @@ With over 3 years of experience, I help businesses grow through modern web techn
 
 **Frontend:** ⚛️ React • 🧬 Next.js • 🎨 Tailwind CSS • 📜 JavaScript
 
-**Backend:** 🔧 Node.js • 🐘 PHP • 📝 WordPress • 🗃️ MySQL • 🍃 MongoDB
+**Backend:** 🔧 Node.js • 🐘 PHP • 🔺 Laravel • 🌀 WordPress • 🗃️ MySQL • 🍃 MongoDB
 
 **Tools:** 🧰 Git • 🖊️ VS Code • 🎨 Figma • 📬 Postman
 
