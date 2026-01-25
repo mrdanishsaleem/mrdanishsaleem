@@ -7,12 +7,18 @@ I'm a Full Stack Engineer based in Lahore, Pakistan 🇵🇰. With 5 years of ex
 ## 🔧 What I Do
 
 ✅ Custom WordPress themes & plugins
+
 ✅ Full-stack WordPress & PHP development
-✅ API integrations & CRM automation (Zoho, Mailchimp, HubSpot)
-✅ WooCommerce & eCommerce solutions
-✅ Performance optimization & SEO-focused development
-✅ Cloud deployments & project management (cPanel, Plesk, WHM)
+
 ✅ Frontend enhancements with HTML, CSS, JavaScript, Bootstrap, and AJAX
+
+✅ API integrations & CRM automation (Zoho, Mailchimp, HubSpot)
+
+✅ WooCommerce & eCommerce solutions
+
+✅ Performance optimization & SEO-focused development
+
+✅ Cloud deployments & project management (cPanel, Plesk, WHM)
 
 ---
 
